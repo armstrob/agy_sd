@@ -1,0 +1,10 @@
+{
+    "com.mirasense.scanditsdk.plugin": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\ArmstroB\\Downloads\\scandit-barcodescanner-phonegap-android_5.3.3\\scandit-barcodescanner-phonegap-android_5.3.3"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
